@@ -1,9 +1,12 @@
-import React from 'react'
+import React from "react";
 
 const Alen = () => {
-    return (
-        <div>Alen</div>
-    )
-}
+  return (
+    <div>
+      <div>Alen</div>
+      <div>Jayyid</div>
+    </div>
+  );
+};
 
-export default Alen
+export default Alen;
